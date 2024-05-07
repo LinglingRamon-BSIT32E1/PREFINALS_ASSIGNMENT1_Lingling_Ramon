@@ -2,6 +2,6 @@
 {
     public class Secret
     {
-        public static readonly string JwtSecret = "passsahalata";
+        public static readonly string JwtSecret = "secretngaeh";
     }
 }
